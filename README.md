@@ -1,3 +1,8 @@
+# install
+
+npm install d3 
+npm install @types/d3 --save-dev
+
 # AngularBubblechartExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.

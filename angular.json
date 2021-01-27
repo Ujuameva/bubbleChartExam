@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-bubblechart-example"
+  "defaultProject": "angular-bubblechart-example",
+  "cli": {
+    "analytics": false
+  }
 }
